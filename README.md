@@ -1,6 +1,6 @@
 # Hololive-Fanapp
 
-This app showcases 11 idol talents from the Hololive V-Tuber agency. This app is entirely for personal development purposes and no monetary gain is earned.
+This app showcases 11 idol talents from the Hololive V-Tuber agency. This app is entirely for personal development purposes.
 
 The 11 idols comes from 3 generations: Gamers, Fantasy, and Myth
 
