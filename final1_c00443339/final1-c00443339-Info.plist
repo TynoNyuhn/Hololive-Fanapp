@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Newrocker-Gy5a.ttf</string>
+		<string>JaspersHandwriting-826A.ttf</string>
+		<string>CuteNotes-axAAo.ttf</string>
+		<string>JennysHandwriting-rvwK.ttf</string>
+		<string>PixelEmulator-xq08.ttf</string>
+		<string>BetterGrade-519DV.ttf</string>
+		<string>MerryChristmas2021-owOL4.ttf</string>
+		<string>GravediggerPersonalUse-K7ayW.ttf</string>
+		<string>Aquire-BW0ox.otf</string>
+		<string>AlloyInk-lgdWw.otf</string>
+	</array>
+</dict>
+</plist>
